@@ -1,2 +1,1 @@
-# precurso-nuevo
-este es un precurso nuevo
+este proyecto es una prueba de clonacion
